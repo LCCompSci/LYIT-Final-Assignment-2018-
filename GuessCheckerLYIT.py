@@ -1,3 +1,5 @@
+''' This is the final LYIT Coding assigment as required to finish off our course - Completed 22 April 2018'''
+
 # Need the 'random' library to generate our secret number
 import random
 
